@@ -1,9 +1,3 @@
-# Multiplayer-game
-
-https://twitter.com/OrdinalsPlay/status/1708301012983775702
-
-https://github.com/user-attachments/assets/ffc15076-c8a5-4d93-bf72-0b8363c29f16
-
 # Multiplayer-game — OrdinalsPlay
 
 ![Unity](https://img.shields.io/badge/Engine-Unity-000000?logo=unity&logoColor=white)
@@ -12,10 +6,13 @@ https://github.com/user-attachments/assets/ffc15076-c8a5-4d93-bf72-0b8363c29f16
 ![Topology](https://img.shields.io/badge/Topology-Shared%20Mode-6E56CF)
 ![WebGL](https://img.shields.io/badge/Build-WebGL-990000?logo=webgl&logoColor=white)
 ![Web3](https://img.shields.io/badge/Skins-Ordinals%20NFT-F7931A?logo=bitcoin&logoColor=white)
+![Twitter](https://twitter.com/OrdinalsPlay/status/1708301012983775702)
 
 A real-time **multiplayer 2D arena shooter** built in **Unity** with **Photon Fusion** networking. Up to **12 players** drop into a shared match, grab weapons and power-ups, and fight on a kill/death leaderboard until the match timer runs out.
 
 Its defining twist: the game ships as a **WebGL** experience where each player's character is skinned with their own **Ordinals (Bitcoin NFT) artwork**, streamed in at runtime, and matches can be launched straight from a **Discord** activity.
+
+https://github.com/user-attachments/assets/ffc15076-c8a5-4d93-bf72-0b8363c29f16
 
 > **About this repository.** This repo is a **source-code snapshot** of the game's C# scripts (`.cs` + Unity `.meta` files). It is intended to showcase the game's *architecture* — the Unity scenes, prefabs, sprites, the Photon Fusion package, and the external WebGL/JS bridge live in the full project and are **not** included here. See [Building & Running](#building--running) for what a full build requires.
 
